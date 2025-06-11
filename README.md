@@ -1,4 +1,3 @@
-# -yighen-.github.io
 ##### Fast-Track Your Freeform Lens Project with Yighen Ultra Precision’s Swift Prototyping Service
 Time-to-market can make or break an innovation. In the field of freeform lens manufacturing, rapid iteration and fast validation are essential — especially for startups and R&D teams working on next-generation optical products. That’s why Yighen Ultra Precision offers a swift prototyping service designed to accelerate development cycles while maintaining ultra-precision standards.
 #### From Concept to Prototype in Weeks
